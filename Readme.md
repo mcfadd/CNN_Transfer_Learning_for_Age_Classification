@@ -8,7 +8,7 @@ The pre-trained CNN used in the experiment is ResNet-34, which comes from [torch
 
 ### Transfer Learning
 
-Transfer learning is a technique where you use a model trained on a very large dataset and then adapt it to another (smaller) dataset. An advantage of this is that it takes far less time to do transfer learning than to train a model from scratch. 
+Transfer learning is a technique where you use a model trained on a very large data set and then adapt it to another (smaller) data set. An advantage of this is that it takes far less time to do transfer learning than to train a model from scratch. 
 The ResNet-34 CNN used in this project was trained on [ImageNet](http://image-net.org/).
 
 ### Data Set
