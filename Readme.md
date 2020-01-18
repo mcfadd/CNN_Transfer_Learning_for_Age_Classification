@@ -33,5 +33,5 @@ If you don't have a GPU available you can still run the project using [Colab](ht
 *Gil Levi and Tal Hassner, Age and Gender Classification Using Convolutional Neural Networks, IEEE Workshop on Analysis and Modeling of Faces and Gestures (AMFG), at the IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), Boston, June 2015* ([Project and code](https://www.openu.ac.il/home/hassner/projects/cnn_agegender/), [PDF](https://talhassner.github.io/home/projects/cnn_agegender/CVPR2015_CNN_AgeGenderEstimation.pdf))
 
 ##### [2]
-*Tal Hassner, Shai Harel\*, Eran Paz\* and Roee Enbar, Effective Face Frontalization in Unconstrained Images, IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), Boston, June 2015* ([Project and code](https://talhassner.github.io/home/publication/2015_CVPR_1), [PDF](https://talhassner.github.io/home/projects/frontalize/CVPR2015_frontalize.pdf))
+*Tal Hassner, Shai Harel, Eran Paz and Roee Enbar, Effective Face Frontalization in Unconstrained Images, IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), Boston, June 2015* ([Project and code](https://talhassner.github.io/home/publication/2015_CVPR_1), [PDF](https://talhassner.github.io/home/projects/frontalize/CVPR2015_frontalize.pdf))
 
